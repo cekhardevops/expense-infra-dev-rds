@@ -1,0 +1,1 @@
+![Alt text](images/expense-sg-rules-lb.svg)
